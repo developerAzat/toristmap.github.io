@@ -1,1 +1,1 @@
-# toristmap.github.io
+# touristmap.github.io
